@@ -107,6 +107,16 @@ const PriceArea = styled.div`
   height: 10rem;
   overflow-y: scroll;
   overflow: auto;
+
+  span {
+    text-align: center;
+    width: 100%;
+    display: block;
+    color: #DCDCDF;
+    font-weight: 600;
+    font-size: 16px;
+    margin-top: 1rem;
+  }
 `;
 
 const TotalPriceArea = styled.div`
@@ -124,6 +134,9 @@ const TotalPriceArea = styled.div`
   border: 1px solid rgba(255, 255, 255, 0.18);
   color: #3e4959;
   font-weight: 500;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 `;
 
 export { HeaderLayout, ToggleLayout, PriceArea, TotalPriceArea };
