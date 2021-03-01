@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "title": "Tek Kişilik Paketos",
+        "description": "Sucuk, Mozarella Peyniri, Pizza Sos, Barbekü Sos",
+        "price": 59
+    },
+    {
+        "id": "2",
+        "title": "Sarımsak Soslu Sucuksever",
+        "description": "Sucuk, Mozarella Peyniri, Pizza Sos",
+        "price": 35
+    },
+    {
+        "id": "3",
+        "title": "Sucuksever",
+        "description": "Sucuk, Mozarella Peyniri, Pizza Sos",
+        "price": 67
+    },
+    {
+        "id": "4",
+        "title": "Süperos",
+        "description": "Jambon, Sucuk, Sosis, Mozarella Peyniri, Pizza Sos, Siyah Zeytin, Domates, Kekik",
+        "price": 24
+    },
+    {
+        "id": "5",
+        "title": "Margarita",
+        "description": "Mozarella Peyniri, Pizza Sos",
+        "price": 68
+    },
+    {
+        "id": "6",
+        "title": "Barbekü Soslu Sucuksever",
+        "description": "Sucuk, Mozarella Peyniri, Pizza Sos, Barbekü Sos",
+        "price": 38
+    },
+    {
+        "id": "7",
+        "title": "Barbekü Soslu Sucuksever",
+        "description": "Sucuk, Mozarella Peyniri, Pizza Sos, Barbekü Sos",
+        "price": 53
+    },
+    {
+        "id": "8",
+        "title": "Barbekü Soslu Sucuksever",
+        "description": "Sucuk, Mozarella Peyniri, Pizza Sos, Barbekü Sos",
+        "price": 61
+    }
+]
