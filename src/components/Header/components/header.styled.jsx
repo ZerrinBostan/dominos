@@ -69,6 +69,10 @@ const HeaderLayout = styled.header`
       .toggle-layout {
         left: -8rem;
         width: 17.2rem;
+
+        div:first-child {
+          height: 8rem;
+        }
       }
     }
   }
